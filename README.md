@@ -1,7 +1,7 @@
 Privacy Policy
 Last updated: April 8, 2026
 Introduction
-CramAI ("the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our AI-powered flashcard application.
+Neurodecks ("the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our AI-powered flashcard application.
 
 Information We Collect
 The App collects and stores the following data locally on your device:
